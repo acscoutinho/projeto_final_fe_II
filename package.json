@@ -1,0 +1,17 @@
+{
+  "name": "projeto_final_fe_ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+    
+  },
+  "keywords": [],
+  "author": "Coutinho",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
